@@ -31,7 +31,6 @@ Dialog must be installed for the menu system to work and as such the script will
   - Runs `dnf upgrade --refresh` to install all available updates from enabled repos.
 
 ### Install Software
-#### Installs the following pieces of software (or the applications you specify in dnf-packages.txt)
   - Installs packages defined in `dnf-install.txt`.
 
 ### Enable Flatpak and Packages
@@ -39,7 +38,7 @@ Dialog must be installed for the menu system to work and as such the script will
   - Installs packages defined in `flatpak-install.txt`.
 
 ### Install Oh-My-ZSH
-  - **Installs Oh-My-Zsh** - [A ZSH configuration management framework](https://ohmyz.sh/)
+  - Installs Oh-My-Zsh - [A ZSH configuration management framework](https://ohmyz.sh/)
 
 ### Install powerlevel10k Prompt
-  - **Installs the powerlevel10k prompt for ZSH** - [A popular cross-shell highly customisable prompt](https://github.com/romkatv/powerlevel10k)
+  - Installs the powerlevel10k prompt for ZSH - [A popular cross-shell highly customisable prompt](https://github.com/romkatv/powerlevel10k)
