@@ -1,0 +1,4 @@
+lutris
+steam
+wine
+winetricks

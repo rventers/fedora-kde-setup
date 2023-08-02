@@ -1,0 +1,9 @@
+com.atlauncher.ATLauncher
+com.github.tchx84.Flatseal
+io.openrct2.OpenRCT2
+net.davidotek.pupgui2
+org.gnome.DejaDup
+org.mozilla.firefox
+org.freedesktop.Platform.ffmpeg-full//22.08
+org.kde.kate
+org.signal.Signal

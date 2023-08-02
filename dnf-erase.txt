@@ -1,0 +1,3 @@
+abrt
+firefox
+firefox-langpacks
