@@ -8,7 +8,7 @@ Dialog must be installed for the menu system to work and as such the script will
 
 ## Usage
 
-1. Run the script `./setup.sh`
+1. Run `./setup.sh`
 
 ## Files
 
